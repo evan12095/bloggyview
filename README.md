@@ -1,6 +1,8 @@
 # PROJECT DONE BY - EVANGELINE A
 # BLOGGYVIEW
 
+![image](https://user-images.githubusercontent.com/118064440/209978185-6859a06d-27e7-4655-bf99-c5ed9f63e63f.png)
+
 BloggyView has totally three parts:
   1. Backend
   2. Frontend
